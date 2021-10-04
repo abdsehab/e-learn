@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1i",
+    "thumbnail": "https://i.ibb.co/vQZfx01/django.png",
+    "course_duration": 680,
+    "instuctor": "Karlos HHnason",
+    "price": 1450,
+    "course_name": "Django Pro"
+    
+  },
+  {
+    "_id": "2g",
+    "thumbnail": "https://i.ibb.co/s3m99Mn/css.jpg",
+    "course_duration": 600,
+    "instuctor": "Dodson Maysfs",
+    "price": 1000,
+    "course_name": "Css Hero"
+    
+  },
+  {
+    "_id": "3v",
+    "thumbnail": "https://i.ibb.co/0GCXcpx/html.png",
+    "course_duration": 600,
+    "instuctor": "Dodsfs Hanrey",
+    "price": 500,
+    "course_name": "Html Basic"
+    
+  },
+  {
+    "_id": "4k",
+    "thumbnail": "https://i.ibb.co/WFCQxpY/material-ui.png",
+    "course_duration": 50,
+    "instuctor": "Tukh Shar",
+    "price": 6500,
+    "course_name": "Material Ui A-Z"
+    
+  }
+]

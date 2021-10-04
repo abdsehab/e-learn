@@ -1,0 +1,91 @@
+[
+  {
+    "_id": "1i",
+    "thumbnail": "https://i.ibb.co/vQZfx01/django.png",
+    "course_duration": 680,
+    "instuctor": "Karlos HHnason",
+    "price": 1450,
+    "course_name": "Django Pro"
+    
+  },
+  {
+    "_id": "2g",
+    "thumbnail": "https://i.ibb.co/s3m99Mn/css.jpg",
+    "course_duration": 600,
+    "instuctor": "Dodson Maysfs",
+    "price": 1000,
+    "course_name": "Css Hero"
+    
+  },
+  {
+    "_id": "3v",
+    "thumbnail": "https://i.ibb.co/0GCXcpx/html.png",
+    "course_duration": 600,
+    "instuctor": "Dodsfs Hanrey",
+    "price": 500,
+    "course_name": "Html Basic"
+    
+  },
+  {
+    "_id": "4k",
+    "thumbnail": "https://i.ibb.co/WFCQxpY/material-ui.png",
+    "course_duration": 50,
+    "instuctor": "Tukh Shar",
+    "price": 6500,
+    "course_name": "Material Ui A-Z"
+    
+  },
+
+  {
+    "_id": "5l",
+    "thumbnail": "https://i.ibb.co/Q64KL2P/Node-js-logo-svg.png",
+    "course_duration": 500,
+    "instuctor": "Shahh Shar",
+    "price": 6000,
+    "course_name": "Node You Need to Know"
+    
+  },
+
+  {
+    "_id": "6D",
+    "thumbnail": "https://i.ibb.co/VHPcbGX/python.jpg",
+    "course_duration": 50,
+    "instuctor": "Masud Valo",
+    "price": 2000,
+    "course_name": "Python for kids"
+    
+  },
+
+  {
+    "_id": "7u",
+    "thumbnail": "https://i.ibb.co/7yVr5XS/React.jpg",
+    "course_duration": 500,
+    "instuctor": "Masukb Shha",
+    "price": 8000,
+    "course_name": "React for Men"
+
+    
+  },
+
+  {
+    "_id": "8w",
+    "thumbnail": "https://i.ibb.co/KFCWyqn/tailwind.jpg",
+    "course_duration": 50,
+    "instuctor": "Sami Shah",
+    "price": 5600,
+    "course_name": "Basic Tailwind Css"
+
+    
+  },
+
+  {
+    "_id": "9x",
+    "thumbnail": "https://i.ibb.co/2PsGNBn/Typescript-logo-2020-svg.png",
+    "course_duration": 500,
+    "instuctor": "Samim Mohuya",
+    "price": 5000,
+    "course_name": "Type Your TypeScript"
+
+    
+  } 
+]
