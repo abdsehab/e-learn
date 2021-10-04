@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Project Name : e-learn React
+# LiveSite : https://e-learnn.netlify.app/
+
+# About This Project
+  - Here I am trying to make a digital Programming Learning site
+  - Use React Route so that website dont reload everytime when page change
+  - try to make this site cool but due to shortage of time i cant do that
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
